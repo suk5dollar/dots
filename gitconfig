@@ -1,0 +1,14 @@
+[user]
+    name = suk5dollar
+    email = suk@gmx.us
+[color]
+    ui = auto
+[init]
+    defaultBranch = main
+[push]
+    default = matching
+[pull]
+    rebase = false
+[credential]
+    helper = store
+
