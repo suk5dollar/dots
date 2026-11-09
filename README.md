@@ -1,3 +1,12 @@
 # Configuration Files
 
-My base configuration files for initial OS installs.
+Base configuration files for initial installs.
+
+## Installation
+
+__WARNING__.  Running the installation script will overwrite existing files and
+directories.
+
+```bash
+./install
+```
